@@ -1,6 +1,6 @@
 Hearing Test Application
 
-This user-friendly application is specifically designed to perform hearing tests across a range of sound frequencies. I developed it for personal use while contemplating surgery for my right ear, and it assumes the user is wearing headphones. 
+This user-friendly application is specifically designed to perform hearing tests across a range of sound frequencies. I developed it for personal use while contemplating surgery for my right ear. The application assumes the user is wearing headphones. 
 
 ![screenshot](Screenshot.png)
 
