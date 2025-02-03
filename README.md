@@ -15,3 +15,5 @@ Ensure you are in a quiet environment for accurate results.
 If you experience discomfort at any point, immediately stop the test and adjust or reduce the volume.
 
 This application is tailored for individuals experiencing hearing issues in one ear, providing a straightforward way to assess your hearing needs before considering medical interventions.
+
+The application is using (based on) NAudio package.
