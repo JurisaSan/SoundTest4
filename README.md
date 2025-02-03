@@ -1,9 +1,8 @@
-
-Here's an improved description for your software application:
-
 Hearing Test Application
 
 This user-friendly application is specifically designed to perform hearing tests across a range of sound frequencies. I developed it for personal use while contemplating surgery for my right ear, and it assumes the user is wearing headphones. 
+
+![screenshot](Screenshot.png)
 
 Key Features:
 Single Ear Testing: The app currently supports testing for the right ear only, using the right channel of your headphones. To test the left ear, you can either update the code or simply swap the sides of your headphones.
